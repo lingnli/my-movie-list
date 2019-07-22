@@ -1,0 +1,19 @@
+#search-bar{
+  margin-bottom:20px;
+  display:inline-block;
+}
+/*mode按鈕*/
+#mode-btn{
+  float:right;
+  font-size: 25px;
+}
+i.fa{
+  margin: 5px;
+}
+/*line列表樣式*/
+.info-btn{
+  float:right;
+}
+.list-group{
+  width:100vw
+}
